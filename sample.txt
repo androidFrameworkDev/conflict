@@ -1,4 +1,4 @@
-line0 --local commit, git rebase check [edit in same file]
+line0 --local commit, git merge check [edit in same file] ### local change - stash check ###
 line1 --local
 line2 --remote
 line3
