@@ -6,4 +6,4 @@ line4
 line5 --remote commit, git merge check without conflicts
 line6 --remote commit, git rebase check without conflicts
 line7 --remote commit, git rebase check [edit in same file]
-line8 --remote commit, git rebase merge conflict
+line8 --confict resolved for local & remote commit, git rebase merge conflict
