@@ -3,3 +3,4 @@ line2 --remote
 line3
 line4
 line5 --remote commit, git merge check without conflicts
+line6 --remote commit, git rebase check without conflicts
